@@ -1,4 +1,4 @@
-
+// 
 // Selecting HTML elements
 
 const todoInput = document.getElementById('todoInput');
